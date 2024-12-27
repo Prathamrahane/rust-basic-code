@@ -1,0 +1,17 @@
+fn main(){
+  let x=5;
+  let y=3.14;
+  let z=true;
+  let name="alice";
+  let a: i32=10;
+  let b: f64=2.71828;
+  let c: bool=false;
+  println!("x: {}",x);
+  println!("y: {}",y);
+  println!("z: {}",z);
+  println!("name :{}",name);
+  println!("a: {}",a);
+  println!("b: {}",b);
+  println!("C: {}",c);
+  
+}
